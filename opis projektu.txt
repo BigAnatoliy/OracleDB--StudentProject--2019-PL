@@ -1,0 +1,10 @@
+			BD Szpitalu psychiatrycznego
+
+Baza danych bedzie wykorzystywana dla przechowywania
+ informacji szpitala psychiatrycznego. Powinna zawierac informacje:
+-  pracownikach
+-  pacjentach oraz wyleczonych
+-  diagnozach i lekach
+-  stanowiskach ktore moga byc przypisane do pracownika
+takze osob(zawiera dane dotyczace pracownikow i pacjentow)
+- informacje  ktore umozliwiaja polaczenie diagnozy z odpowiednimi lekami.
